@@ -6,6 +6,12 @@ Bags are elongated (64 x 32 x 16), solid to players and bullet traces, stackable
 and destructible. Side/near-ground snapping builds straight rows. Players must
 opt in with `dod_sandbag`; installation never changes their binds or client cvars.
 
+## Gameplay demo
+
+[Watch the gameplay demo (MP4, 30 seconds)](https://github.com/MRozmus/dod-sandbags/blob/main/docs/media/demo.mp4)
+
+See placement previews, stacking, straight rows and destructible cover in-game.
+
 ## Features
 
 - Translucent placement preview with 90-degree rotation.
