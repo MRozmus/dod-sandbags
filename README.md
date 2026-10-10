@@ -8,7 +8,9 @@ opt in with `dod_sandbag`; installation never changes their binds or client cvar
 
 ## Gameplay demo
 
-[Watch the gameplay demo (MP4, 30 seconds)](https://github.com/MRozmus/dod-sandbags/blob/main/docs/media/demo.mp4)
+https://github.com/user-attachments/assets/1dc1b3a1-06ac-4d24-907a-7aa786ccc7f0
+
+[Download the demo](https://github.com/MRozmus/dod-sandbags/blob/main/docs/media/demo.mp4) · 30 seconds · 720p · with game audio
 
 See placement previews, stacking, straight rows and destructible cover in-game.
 
