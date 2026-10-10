@@ -1,0 +1,17 @@
+[en]
+SB_ENABLED = Building enabled. Bind a key: bind mouse3 +dod_sandbag
+SB_HELP = Hold the build key for a preview; release to place. Rotate: bind v dod_sandbag_rotate (90 degrees).
+SB_COMMANDS = Commands: dod_sandbag (toggle), dod_sandbag_remove (remove your aimed bag), dod_sandbag_help.
+SB_DISABLED = Building disabled for you.
+SB_SERVER_DISABLED = Sandbag building is disabled by the server.
+SB_NO_ACCESS = You do not have permission to build sandbags.
+SB_TOO_FAR = Move closer to place a sandbag.
+SB_BAD_SURFACE = Aim at level ground or the top/side of a sandbag.
+SB_BLOCKED = Not enough room or support for this sandbag.
+SB_NO_SURFACE = No placement surface at your aim point.
+SB_GLOBAL_LIMIT = The server's sandbag limit has been reached.
+SB_PLAYER_LIMIT = Your sandbag limit has been reached. Remove an old bag first.
+SB_ENTITY_LIMIT = The server needs free entities for other game objects. Try again later.
+SB_COOLDOWN = Please wait briefly before placing another sandbag.
+SB_ALLOCATION = Could not create a sandbag entity.
+SB_NOT_OWNED = Aim at one of your own sandbags within placement range.

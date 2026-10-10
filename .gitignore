@@ -1,0 +1,9 @@
+build/
+*.amxx
+*.amx
+*.mdl
+*.log
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
